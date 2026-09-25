@@ -142,7 +142,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/iq_duel.git
+   git clone https://github.com/fractor16/iq_duel.git
    cd iq_duel
    ```
 
@@ -205,5 +205,3 @@ Contributions, feedback, and pull requests are welcome!
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-#   i q _ d u e l  
- 
